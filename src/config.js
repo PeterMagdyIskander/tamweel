@@ -9,13 +9,13 @@ export const config = {
     // }
 
     firebase: {
-    apiKey: "AIzaSyBPugGpUxzNm822jyCYRJkO_-NlNQytRk0",
-    authDomain: "siemens-submission.firebaseapp.com",
-    projectId: "siemens-submission",
-    storageBucket: "siemens-submission.appspot.com",
-    messagingSenderId: "393118786569",
-    appId: "1:393118786569:web:a0cfec1c0248a9106e84d8",
-    measurementId: "G-5N7B28YNNF"
+        apiKey: "AIzaSyDT4hYm1ZXM92j4z96uZHvzRvuAMb5ka-4",
+        authDomain: "tamweel-bbba9.firebaseapp.com",
+        projectId: "tamweel-bbba9",
+        storageBucket: "tamweel-bbba9.appspot.com",
+        messagingSenderId: "412164532684",
+        appId: "1:412164532684:web:a7d74d6288d995bc125569",
+        measurementId: "G-WZXMPDNC69"
     }
 }
 

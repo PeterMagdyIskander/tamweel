@@ -1,6 +1,6 @@
 <template>
     <div class="header-container">
-        <p class="logo">Siemens' Submission</p>
+        <p class="logo">tamweel</p>
         <p class="title">{{ title }} <span class="wave-sign">{{ emoji }}</span></p>
         <p class="subtitle">{{ subtitle }}</p>
     </div>
